@@ -1,8 +1,9 @@
 <!-- regenerate: on (set to off if you edit this file) -->
 
-# TODO - Your title
+# Consistent Phrasing for Working Group Adoption and Last Call Notices
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "Consistent
+Phrasing for Working Group Adoption and Last Call Notices".
 
 * [Editor's Copy](https://csperkins.github.io/draft-perkins-adoption-last-call/#go.draft-perkins-adoption-last-call.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-perkins-adoption-last-call)
