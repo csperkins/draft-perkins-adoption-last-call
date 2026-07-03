@@ -19,18 +19,18 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Consistent Phrasing for Working Group Draft Adoption and Last Call Notices"
+abbrev: "Adoption and Last Call"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-perkins-adoption-last-call
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: GEN
+workgroup: PROCON Working Group
 keyword:
  - next generation
  - unicorn
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Colin Perkins
+    organization: University of Glasgow
+    email: csp@csperkins.org
 
 normative:
 
